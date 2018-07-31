@@ -6,7 +6,7 @@ This system not just helps the teachers to instantly take the attendance of the 
 
 ### Overall Project Domains : ML, Android & IoT
 
-The Overall Report for the Project can be found here : [Opinion Mining](https://github.com/SaiArrow/Chehra-Face-Recognition-Based-Attendance-Management-System/blob/master/NBF%20Submit.pdf).
+The Overall Report for the Project can be found here : [NBF Report](https://github.com/SaiArrow/Chehra-Face-Recognition-Based-Attendance-Management-System/blob/master/NBF%20Submit.pdf).
 
 ### Team Members
 1. Royston D'mello
