@@ -1,4 +1,4 @@
-# Chehra-Face-Recognition-Based-Attendance-Management-System
+# Chehra - A Face Recognition Based Attendance Management System
 
 ## Project for RaEng NBFTech Challenge
 
